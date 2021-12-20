@@ -1,0 +1,9 @@
+package com.rishav.mongoDbAssignment.repository;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.rishav.mongoDbAssignment.entity.Student;
+
+public interface StudentRepository extends MongoRepository<Student,Integer> {
+
+}

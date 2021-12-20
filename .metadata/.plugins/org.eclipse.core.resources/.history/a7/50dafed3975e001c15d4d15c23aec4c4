@@ -1,0 +1,5 @@
+package com.rishav.mongoDbAssignment.entity;
+
+public class CustomSeq {
+
+}
