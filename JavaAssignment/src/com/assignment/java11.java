@@ -14,6 +14,7 @@ public class java11 {
 		 list.add(10);
 		 list.add(5);
 		 System.out.println(list);
+		 
 	}
 
 }
